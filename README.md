@@ -1,7 +1,7 @@
 # a-b-c_folders
 ... must have for cloud file storage users - free A-B-C Folders save time on spring cleaning files & find them back.
 
-the zip-file contains the folders 
+the 'ABC_Folders.zip' zip-file contains the folders 
 
 0-9
 
