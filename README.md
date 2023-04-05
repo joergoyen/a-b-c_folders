@@ -22,3 +22,4 @@ T-U-V
 W-X-Y-Z
 
 
+🪄 works magic for bookmarks and url collections
